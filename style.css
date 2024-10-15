@@ -1,0 +1,22 @@
+header {
+    background-color: brown;
+    color: beige;
+    text-align: center;
+    font-size: 60pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+main{
+    background-color: bisque;
+    color:black;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
